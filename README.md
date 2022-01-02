@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the (https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/N17R0-HACKERS)(https://github.com/N17R0-HACKERS) to maintain and preview the content for your website in Markdown files.
+You can use the ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/N17R0-HACKERS)(https://github.com/N17R0-HACKERS) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
